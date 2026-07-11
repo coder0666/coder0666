@@ -1,12 +1,34 @@
 <div align="center">
 
-# 👋 Hi, I'm Dharanidhar
+# 👋 Hey, I'm Dharanidhar
 
-### 🚀 Full Stack Developer | ECE Student | AI Enthusiast
+### 🚀 Aspiring Full Stack Developer • AI Enthusiast • ECE Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Real+World+Projects;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Real+World+Projects;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=coder0666&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+### 🎓 Electronics & Communication Engineering Student
+
+📍 Hyderabad, India 🇮🇳
+
+💼 Open to Software Engineering & Full Stack Internship Opportunities
+
+<p align="center">
+
+<a href="https://github.com/coder0666">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharanidhar-chintalapudi-3a61b9319/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dharanidhar561@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
@@ -14,39 +36,26 @@
 
 # 👨‍💻 About Me
 
-🎓 Second-Year Electronics & Communication Engineering Student
+🎓 Second-Year Electronics & Communication Engineering Student.
 
-💻 Passionate about building real-world software solutions.
+💻 Passionate about building modern web applications and solving real-world problems through technology.
 
-🚀 Currently building projects using modern web technologies.
+🚀 Currently building practical projects to improve my software engineering skills.
 
-🌱 Currently Learning
-
-- Data Structures & Algorithms
-- React.js
-- Next.js
-- FastAPI
-- Machine Learning
-
-💡 Interested in
-
-- Full Stack Development
-- Artificial Intelligence
-- Open Source
-- Software Engineering
+🌱 I enjoy learning new technologies, contributing to open source, and continuously improving as a developer.
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚀 CrowdPulse | Smart crowd intelligence platform | Next.js • FastAPI • Firebase |
-| 🌱 MindSprouts | Educational learning platform | React • Firebase |
-| 💡 Automatic Street Light | Arduino automation project | Arduino |
-| 🐍 AI Assistant | CLI-based AI assistant | Python |
-| 🎮 Snake Game | Browser-based Snake Game | JavaScript |
-| ✅ To-Do App | Local Storage Task Manager | HTML • CSS • JavaScript |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 CrowdPulse | AI-powered crowd intelligence platform | Next.js • FastAPI • Firebase |
+| 🌱 MindSprouts | Interactive educational platform | React • Firebase |
+| 💡 Automatic Street Light | Smart Arduino automation system | Arduino |
+| 🤖 AI Assistant | Command-line AI assistant | Python |
+| 🎮 Snake Game | Classic browser-based game | JavaScript |
+| ✅ To-Do App | Task management application | HTML • CSS • JavaScript |
 
 ---
 
@@ -70,7 +79,7 @@
 <img src="https://skillicons.dev/icons?i=fastapi,firebase"/>
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino"/>
@@ -78,40 +87,13 @@
 
 ---
 
-# 📊 GitHub Statistics
+# 📚 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coder0666&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0666&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=coder0666&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌟 Current Focus
-
-- 🚀 Building Full Stack Applications
-- 🌱 Learning React, Next.js & FastAPI
-- 💻 Strengthening Data Structures & Algorithms
-- 🤝 Contributing to Open Source
-- 🧠 Exploring Artificial Intelligence & Machine Learning
-
----
-
-# 🏅 Achievements
-
-- 🎓 Electronics & Communication Engineering Student
-- 💻 Built multiple Web & Python Projects
-- 🌱 Active Open Source Learner
-- 🚀 Passionate about solving real-world problems
+- 📖 Data Structures & Algorithms
+- ⚛️ React.js & Next.js
+- 🚀 FastAPI
+- 🤖 Machine Learning
+- 🌍 Open Source Development
 
 ---
 
@@ -123,7 +105,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dharanidhar-chintalapudi-3a61b9319/">
+<a href="https://www.linkedin.com/in/dharanidhar-chintalapudi-3a61b9319/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -139,6 +121,8 @@
 
 ## ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Build • Improve • Repeat"* 🚀
+### *"Code • Learn • Build • Improve • Repeat"* 🚀
+
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
